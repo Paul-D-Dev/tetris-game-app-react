@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tetris game is hosting by Firebase : https://tetris-app-react.web.app/
+
+I am learning React. Tetris game was realised following the course offered by Thomas Weibenfalk on Udemy.
 
 ## Available Scripts
 
